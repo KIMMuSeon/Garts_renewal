@@ -480,25 +480,25 @@ input::placeholder {
 }
 
 .sec2_con ul .sec2_3 {
-  background: url(./img/흠모slide_banner.jpg);
+  background: url(./img/흠모slide_banner.jpg);
   background-size: cover;
   background-position: 50% 20%;
 }
 
 .sec2_con ul .sec2_4 {
-  background: url(./img/공연1.jpg);
+  background: url(./img/공연1.jpg);
   background-size: cover;
   background-position: 50% 10%;
 }
 
 .sec2_con ul .sec2_5 {
-  background: url(./img/아카데미2.jpg);
+  background: url(./img/아카데미2.jpg);
   background-size: cover;
   background-position: 50% 0%;
 }
 
 .sec2_con ul .sec2_6 {
-  background: url(./img/공연2.jpg);
+  background: url(./img/공연2.jpg);
   background-size: cover;
   background-position: 50% 0%;
 }
@@ -566,7 +566,7 @@ input::placeholder {
   margin-bottom: 100px;
   width: 100vw;
   height: 500px;
-  background-image: url(./img/마스크\ 그룹\ 4.png);
+  background-image: url(./img/마스크그룹4.png);
   background-size: cover;
   background-position: 50%;
   display: flex;
